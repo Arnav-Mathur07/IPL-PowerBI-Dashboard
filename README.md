@@ -43,13 +43,13 @@ This project presents an interactive Power BI dashboard analyzing Indian Premier
 * `deliveries_sample.csv` → Reduced ball-by-ball dataset (for GitHub compatibility)
 
 > ⚠️ Note: The full deliveries dataset exceeds GitHub's file size limit.
-> 📥 Download full dataset here: **[Add your Google Drive link here]**
+> 📥 Download full dataset here: **https://drive.google.com/drive/folders/1oEjV1xpDvxu5JTwNSi6W6tiz6c7wU7Xy?usp=drive_link**
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
