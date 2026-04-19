@@ -39,8 +39,8 @@ This project presents an interactive Power BI dashboard analyzing Indian Premier
 
 ## 📂 Dataset
 
-* `matches.csv` → Match-level data
-* `deliveries_sample.csv` → Reduced ball-by-ball dataset (for GitHub compatibility)
+- matches.csv → 1096 rows (match-level data)
+- deliveries.csv → 260,921 rows (ball-by-ball data)
 
 > ⚠️ Note: The full deliveries dataset exceeds GitHub's file size limit.
 > 📥 Download full dataset here: **https://drive.google.com/drive/folders/1oEjV1xpDvxu5JTwNSi6W6tiz6c7wU7Xy?usp=drive_link**
